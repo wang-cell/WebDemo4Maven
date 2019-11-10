@@ -6,57 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42a195c4-39f3-4112-a391-f24102bbe35c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebDemo4Maven.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/aspectjweaver-1.8.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/commons-codec-1.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/commons-dbcp-1.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/commons-fileupload-1.3.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/commons-io-2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/commons-pool-1.5.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/fastjson-1.2.35.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/jackson-core-asl-1.9.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/mybatis-3.4.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/mybatis-spring-1.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/mysql-connector-java-5.1.37.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/slf4j-log4j12-1.7.25.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/spring-aop-4.3.10.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/spring-beans-4.3.10.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/spring-context-4.3.10.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/spring-context-support-4.3.10.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/spring-core-4.3.10.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/spring-expression-4.3.10.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/spring-jdbc-4.3.10.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/spring-oxm-4.3.10.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/spring-test-4.3.10.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/spring-tx-4.3.10.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/spring-web-4.3.10.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/spring-webmvc-4.3.10.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/taglibs-standard-compat-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/taglibs-standard-jstlel-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/WebDemo4Maven/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="42a195c4-39f3-4112-a391-f24102bbe35c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../WebDemo3Maven/target/" />
@@ -115,7 +65,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -157,7 +107,22 @@
           <expand>
             <path>
               <item name="WebDemo4Maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebDemo3Maven" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDemo4Maven" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebDemo4Maven" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDemo4Maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebDemo4Maven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebDemo4Maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebDemo4Maven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -278,12 +243,20 @@
       <updated>1573302451086</updated>
       <workItem from="1573302455420" duration="1253000" />
       <workItem from="1573304517593" duration="430000" />
-      <workItem from="1573358147227" duration="3088000" />
+      <workItem from="1573358147227" duration="3687000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit Message">
+      <created>1573373046276</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573373046277</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4771000" />
+    <option name="totallyTimeSpent" value="5370000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1260" height="944" extended-state="0" />
@@ -325,6 +298,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit Message" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Message" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
